@@ -1,0 +1,20 @@
+class Solution {
+    public static int searchInsert(int[] nums, int target) {
+        int length = nums.length,ret = 0;
+        if(target <= nums[0]) return 0;
+        for(int i = 0; i < length;i++){
+            if(nums[i] >= target){
+                ret = i;
+                break;
+            }
+        }
+
+        return (0 == ret)?length:ret;
+    }
+
+    public static void main(String[] args) {
+        int a[] = {1};
+        searchInsert(a,1);
+
+    }
+}
