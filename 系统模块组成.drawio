@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T06:32:24.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="f9EcFADerEjsKWYzjqa8" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T06:34:57.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6pmrMEYNTG4NjpJAuTAe" version="20.2.0" type="github">
   <diagram id="en9oetAdrq5pq-EC_MHb" name="第 1 页">
     <mxGraphModel dx="5553" dy="2697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
         <mxCell id="HP98tEeE-xQHMjTb_vh4-33" value="RPC" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="490" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HP98tEeE-xQHMjTb_vh4-34" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;mixer模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1335" y="840" width="170" height="50" as="geometry" />
+        <mxCell id="HP98tEeE-xQHMjTb_vh4-34" value="&lt;font style=&quot;font-size: 62px;&quot;&gt;mixer模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="820" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HP98tEeE-xQHMjTb_vh4-46" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=33;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -370,6 +370,15 @@
             <mxPoint x="30" y="1279" as="sourcePoint" />
             <mxPoint x="200" y="1279" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HP98tEeE-xQHMjTb_vh4-128" value="&lt;font style=&quot;font-size: 62px;&quot;&gt;access模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-150" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HP98tEeE-xQHMjTb_vh4-129" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 0px;&quot;&gt;&lt;font face=&quot;monospace&quot; color=&quot;rgba(0, 0, 0, 0)&quot;&gt;retrieval&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=62;" vertex="1" parent="1">
+          <mxGeometry x="3720" y="1915" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HP98tEeE-xQHMjTb_vh4-130" value="retrieval模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=62;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="1850" width="370" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
